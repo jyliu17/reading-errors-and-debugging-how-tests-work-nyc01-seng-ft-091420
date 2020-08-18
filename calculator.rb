@@ -6,3 +6,5 @@ sum = 1 + 2
 
 difference = 1 - 2 
 
+product = 1 * 2 
+
